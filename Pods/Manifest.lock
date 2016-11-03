@@ -1,0 +1,12 @@
+PODS:
+  - SinchVerification-Swift (2.0.1)
+
+DEPENDENCIES:
+  - SinchVerification-Swift
+
+SPEC CHECKSUMS:
+  SinchVerification-Swift: 9d6fced3824e52498a45e91b33037f165dca1912
+
+PODFILE CHECKSUM: 65123d59536824a09eb532f8838993c42b61c7e7
+
+COCOAPODS: 1.1.1
